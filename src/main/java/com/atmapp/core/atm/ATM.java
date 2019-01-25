@@ -8,7 +8,7 @@ import com.atmapp.core.managerImplement.ATMManagerImplement;
 import com.atmapp.core.managerImplement.BankManagerImplement;
 
 public class ATM {
-    private int balance = 10000;
+    private int balance = 20000;
     private Bank bank;
     private BankManagerImplement bankManagerImplement;
     private ATMManagerImplement ATMManagerImplement;
